@@ -527,7 +527,7 @@ h1{
 	font-size: 2.6em;
 }
 article section{
-	padding: 3em 20em;
+	padding: 5% 20%;
 	border-bottom: 1px solid #eee;
 }
 article section div:first-child{
@@ -606,7 +606,6 @@ footer{
 }
 
 /*
-
 @media print, screen and (max-width: 1060px) {
   div.wrapper {
     width: auto;
